@@ -1,0 +1,5 @@
+﻿  Test.cpp
+D:\c语言\repository\cpp_project\Class_String_02_09\Class_String_02_09\string.h(100,4): warning C4018: “<=”: 有符号/无符号不匹配
+D:\c语言\repository\cpp_project\Class_String_02_09\Class_String_02_09\string.h(106,4): warning C4018: “<=”: 有符号/无符号不匹配
+D:\c语言\repository\cpp_project\Class_String_02_09\Class_String_02_09\string.h(159,17): warning C4018: “>”: 有符号/无符号不匹配
+  Class_String_02_09.vcxproj -> D:\c语言\repository\cpp_project\Class_String_02_09\Debug\Class_String_02_09.exe
